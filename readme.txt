@@ -1,0 +1,1 @@
+For this assignment, I took the Constitution text and styled it using CSS. I made my own changes and refinements, such as adding blue and tan colors to the text and background, changing the fonts, removing the text shadows, and adjusting the text size. Overall, it was a great practice exercise, and I'm pleased with the outcome and the improvements I implemented.
